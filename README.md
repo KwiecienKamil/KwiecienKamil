@@ -6,6 +6,7 @@ I'm ambitous coder with addiction to improving. As a former footballer
 I'm moving to coding everything that I've learnt playing football. 
 From training every day to psychological aspects for improving. I love 
 coding and I want to be better person/coder every single day.
+Currently studying computer science (2nd year) 
 
 
 
