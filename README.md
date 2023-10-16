@@ -1,4 +1,4 @@
-### 🤵 KwiecienKamil
+### 🤵 Kamil Kwiecień
 
 **`Passionate Self-taught Developer😁`**
 
