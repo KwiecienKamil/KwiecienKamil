@@ -1,6 +1,6 @@
 ### 🤵 KwiecienKamil
 
-**`Passionate self-taught Developer😁`**
+**`Passionate Self-taught Developer😁`**
 
 I'm ambitous coder with addiction to improving. As a former footballer
 I'm moving to coding everything that I've learnt playing football. 
