@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+** `Passionate self-taught Developer😁`
 
 <!--
 **KwiecienKamil/KwiecienKamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
