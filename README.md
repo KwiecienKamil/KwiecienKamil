@@ -2,9 +2,10 @@
 
 **`Passionate Self-taught Developer😊`**
 
-I'm ambitous coder with addiction to improving. As a former footballer
-I'm moving to coding everything that I've learnt playing football. 
-💖 Coding
+I have addiction for improving.Especially in the things that excite me, coding is one of those things
+As a former footballer I'm moving to coding everything that I've learnt playing football.<br>
+Right now I'm enjoying the journey and trying to get first IT job😃
+
 
 
 
