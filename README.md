@@ -3,7 +3,7 @@
 **`Passionate Self-taught Developer😊`**
 
 I have addiction for improving. Especially in the things that excite me, coding is one of those things.<br>
-Right now I'm enjoying the journey and trying to get first IT job😃
+Trying to get first IT job😃
 
 
 
