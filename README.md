@@ -2,8 +2,7 @@
 
 **`Passionate Self-taught Developer😊`**
 
-<h3>I'm addicted to progress. Especially in the things that excite me and coding is one of those things.<br>
-Trying to get first IT job😃</h3>
+<h3>I'm addicted to progress. Especially in the things that excite me and coding is one of those things.</h3>
 
 
 
