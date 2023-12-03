@@ -2,7 +2,7 @@
 
 **`Passionate Self-taught Developer😊`**
 
-<h3>I ❤️ CODING.</h3>
+<h3>I ❤️ CODING</h3>
 
 
 
