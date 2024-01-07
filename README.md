@@ -11,7 +11,7 @@
 
 ---
 ### 💼 Languages and tools
-<div>
+<div style="display:flex flex-direction:column">
 <img align="left" alt="Js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <p>JS</p>
 </div>
