@@ -1,6 +1,7 @@
 ### 🤵 Kamil Kwiecień
 
 **`Passionate Self-taught Developer😊`**
+**`Computer Science Student😊`**
 
 <h3>I ❤️ CODING</h3>
 
