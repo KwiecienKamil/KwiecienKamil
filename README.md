@@ -10,7 +10,7 @@
 to this day something is wrong with my knee and I can't play anymore. After I left the club, next year was probably the worst year in aspect of mental health, I didn't
 know what I was gonna do with my life, I was in IT high school but I thought
 I'm too dumb to become programmer. I had exam at the end of 3rd year in high school,
-that was creating layout in website, sql commands, configurating router, connecting hard drive. After creating that website I thought wow I'm studying like 2 month 
+that was creating layout on website, sql commands, configurating router, connecting hard drive. After creating that website I thought wow I'm studying like 2 month 
 and I can do layout on website, what I'm gonna build after 1 year. That was the first 
 time I thought wow maybe I can do that. After that I'm completly addicted to creating websites, I still remember feeling after creating first one from scratch I was really moved and happy. </h4>
 
