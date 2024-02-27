@@ -6,7 +6,7 @@
 <h3>I ❤️ CODING</h3>
 
 
-<h4>I'm learning every day, create projects, grinding codewars. Just want to be better than me from yesterday</h4>
+<h4>I'm learning every day, create projects, grinding codewars. Want to be better than me from yesterday</h4>
 
 
 
