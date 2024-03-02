@@ -1,12 +1,16 @@
-### 🤵 Kamil Kwiecień
+### Hi there 👋, My name is Kamil
+![](https://media.licdn.com/dms/image/D4D16AQEAesNb9OtyCA/profile-displaybackgroundimage-shrink_350_1400/0/1698768851374?e=1714608000&v=beta&t=OrbGxYgfqcvcpXm2GAIhiatztyf7-bcXzMlaWLPrh8I)
 
-**`Passionate Self-taught Developer😊`**
-**`Computer Science Student👨‍🎓`**
+I'm learning every day, create projects, grinding code challenges. Want to be better than me from yesterday
 
-<h3>I ❤️ CODING</h3>
-<h4>I'm learning every day, create projects, grinding code challenges. Want to be better than me from yesterday</h4>
+Skills: HTML / CSS / Tailwind / Bootstrap / JavaScript / TypeScript / React.js / Next.js /  Node.js / Express.js / SQL / MySQL / MongoDB / Firebase / Postman / Jest / Vitest / Cypress / Redux / Redux Toolkit / OOP /  RWD / Linux / Data Structures / Algoritms / Scrum / Jira /  RESTAPI / Figma / Git 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwiecienKamil)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning Next.js, Data Structures and Algoritms 
+- ⚡ Fun fact: I'm former footballer 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/KwiecienKamil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kamil-kwiecie%C5%84-1920b927b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kamilkwiecien.tech/)  
+
 
 
 
