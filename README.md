@@ -4,7 +4,7 @@
 **`Computer Science Student👨‍🎓`**
 
 <h3>I ❤️ CODING</h3>
-<h4>I'm learning every day, create projects, grinding codewars. Want to be better than me from yesterday</h4>
+<h4>I'm learning every day, create projects, grinding code challenges. Want to be better than me from yesterday</h4>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwiecienKamil)](https://github.com/anuraghazra/github-readme-stats)
 
