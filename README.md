@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h4 align="center">I'm learning every day, creating projects, grinding code challenges. Want to be better than me from yesterday</h4>
+<h4 align="center">Computer Science Student (6th semester)</h4>
 
 
 # 💻 Tech Stack:
