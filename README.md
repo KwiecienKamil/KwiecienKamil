@@ -1,5 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Kamil</h1>
+<h3 align="center">Front-end Developer</h3>
 <h4 align="center">Computer Science Student (6th semester)</h4>
 
 
