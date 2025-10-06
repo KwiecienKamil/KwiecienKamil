@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Kamil</h1>
+<h1 align="center">Hi👋 I'm Kamil</h1>
 <h3 align="center">Front-end Developer</h3>
 
 
