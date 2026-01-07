@@ -1,8 +1,11 @@
 # 💫 About Me:
 <h1 align="center">Hi👋 I'm Kamil</h1>
 <h3 align="center">Front-end Developer | React developer</h3>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%93%8C-blue?style=for-the-badge)]([https://twoje-portfolio.pl](https://kamilkwiecien.tech))
+<p align="center">
+  <a href="https://kamilkwiecien.tech" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-%F0%9F%93%8C-blue?style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
 
 # 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/twoj-profil](https://www.linkedin.com/in/kamil-kwiecień-1920b927b/))
